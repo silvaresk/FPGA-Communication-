@@ -1,0 +1,9 @@
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\bin\Debug\FPGA_Communication.exe.config
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\bin\Debug\FPGA_Communication.exe
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\bin\Debug\FPGA_Communication.pdb
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\obj\Debug\FPGA_Communication.csprojResolveAssemblyReference.cache
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\obj\Debug\FPGA_Communication.Form1.resources
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\obj\Debug\FPGA_Communication.Properties.Resources.resources
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\obj\Debug\FPGA_Communication.csproj.GenerateResource.Cache
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\obj\Debug\FPGA_Communication.exe
+G:\Kyle\Documents\Visual Studio 2013\Projects\FPGA_Communication\FPGA_Communication\obj\Debug\FPGA_Communication.pdb
